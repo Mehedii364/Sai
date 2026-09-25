@@ -1,0 +1,6 @@
+{
+  "name": "Apex Android App & Automated Build Pipeline",
+  "description": "Production-ready Android application project with complete Gradle setup, Jetpack Compose architecture, interactive preview, and automated GitHub Actions APK/AAB build pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

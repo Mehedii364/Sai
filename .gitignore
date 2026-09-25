@@ -1,0 +1,31 @@
+# Node / Web
+node_modules/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Android build outputs & caches
+.gradle/
+app/build/
+build/
+**/build/
+captures/
+
+# Local configuration & credentials
+local.properties
+.idea/
+*.iml
+.cxx/
+*.jks
+*.keystore
+
+# Do NOT ignore the staged binaries for downloads
+!APK_DOWNLOAD/
+!APK_DOWNLOAD/*
+!.build-outputs/
+!.build-outputs/*
+!AAB_DOWNLOAD/
+!AAB_DOWNLOAD/*

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Apex TaskFlow</string>
+    <string name="welcome_message">Stay organized, track goals, and boost productivity</string>
+    <string name="create_task">Create New Task</string>
+    <string name="task_title_hint">Task Title</string>
+    <string name="task_desc_hint">Detailed description (optional)</string>
+    <string name="task_category_hint">Category</string>
+    <string name="task_priority_hint">Priority</string>
+    <string name="save_task">Save Task</string>
+    <string name="discard">Discard</string>
+</resources>
